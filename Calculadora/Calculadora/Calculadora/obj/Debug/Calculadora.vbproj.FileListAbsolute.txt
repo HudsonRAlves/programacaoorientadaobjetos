@@ -1,0 +1,11 @@
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Resources.resources
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.vbproj.GenerateResource.Cache
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.xml
+C:\Users\hudso\Documents\Visual Studio 2015\Projects\ProgramacaoOrientadaObjetos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
